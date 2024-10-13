@@ -27,3 +27,10 @@
 |607|[Sales Person](https://leetcode.com/problems/sales-person/description/)|MYSQL|Easy|
 |608|[Tree Node](https://leetcode.com/problems/tree-node/description/)|MYSQL|Easy|
 |610|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/)|MYSQL|Easy|
+|619|[Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)|MYSQL|Easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)|MYSQL|Easy|
+|626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)|MYSQL|Medium|
+|627|[Swap Salaries](https://leetcode.com/problems/swap-salary/description/)|MYSQL|Easy|
+|1045|[Customer Who Bought all products](https://leetcode.com/problems/customers-who-bought-all-products/description/)|MYSQL|Medium|
+|1050|[Actors and Directors who cooperated at lease 3 times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/)|MYSQL|Easy|
+

@@ -23,4 +23,7 @@
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/)|MYSQL|Easy|
 |596|[Classes more than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)|MYSQL|Easy|
 |601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)|MYSQL|Hard|
-|601|[Friend Requests:who has more friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/)|MYSQL|Medium|
+|602|[Friend Requests:who has more friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/)|MYSQL|Medium|
+|607|[Sales Person](https://leetcode.com/problems/sales-person/description/)|MYSQL|Easy|
+|608|[Tree Node](https://leetcode.com/problems/tree-node/description/)|MYSQL|Easy|
+|610|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/)|MYSQL|Easy|

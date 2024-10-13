@@ -33,4 +33,16 @@
 |627|[Swap Salaries](https://leetcode.com/problems/swap-salary/description/)|MYSQL|Easy|
 |1045|[Customer Who Bought all products](https://leetcode.com/problems/customers-who-bought-all-products/description/)|MYSQL|Medium|
 |1050|[Actors and Directors who cooperated at lease 3 times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/)|MYSQL|Easy|
+|1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)|MYSQL|Easy|
+|1070|[Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)|MYSQL|Medium|
+|1075|[Project Employees I](https://leetcode.com/problems/project-employees-i/)|MYSQL|Easy|
+|1084|[Sales Analysis](https://leetcode.com/problems/sales-analysis-iii/description/)|MYSQL|Easy|
+|1141|[User activity for past 30 days](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/)|MYSQL|Easy|
+|1148|[Article Views](https://leetcode.com/problems/article-views-i/description/)|MYSQL|Easy|
+|1158|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/)|MYSQL|Medium|
+|1164|[Product Price at a given date](https://leetcode.com/problems/product-price-at-a-given-date/description/)|MYSQL|Medium|
+|1174|[Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/)|MYSQL|Medium|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)|MYSQL|Easy|
+|1204|[Last person to fit in Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/)|MYSQL|Medium|
+
 

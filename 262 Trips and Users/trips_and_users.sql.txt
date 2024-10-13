@@ -1,0 +1,25 @@
+# Write your MySQL query statement below
+with cte as
+(select 
+request_at,
+count(*) as total_trips
+from trips
+where  client_id in  (select users_id from Users where banned ='NO')
+and driver_id in  (select users_id from Users where banned ='NO')
+and  request_at between  "2013-10-01" and "2013-10-03"
+group by request_at
+),
+cte2 as
+(select 
+request_at,
+count(*) as cancelled_trips
+from trips
+where status  in ('cancelled_by_driver ','cancelled_by_client')
+and client_id in  (select users_id from Users where banned ='NO')
+and request_at between  "2013-10-01" and "2013-10-03"
+group by request_at
+)
+select ct1.request_at as Day, ROund ( (coalesce (ct2.cancelled_trips,0) / ct1.total_trips),2) as "Cancellation Rate"
+from cte ct1
+left join cte2 ct2
+ON ct1.request_at = ct2.request_at

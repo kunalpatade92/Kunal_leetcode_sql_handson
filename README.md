@@ -13,3 +13,14 @@
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)|MYSQL|Hard|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)|MYSQL|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)|MYSQL|Easy|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/description/)|MYSQL|Hard|
+|511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)|MYSQL|Easy|
+|550|[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/)|MYSQL|Medium|
+|577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)|MYSQL|Easy|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)|MYSQL|Easy|
+|585|[Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/)|MYSQL|Medium|
+|586|[Customer placing Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/)|MYSQL|Easy|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/description/)|MYSQL|Easy|
+|596|[Classes more than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)|MYSQL|Easy|
+|601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)|MYSQL|Hard|
+|601|[Friend Requests:who has more friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/)|MYSQL|Medium|
